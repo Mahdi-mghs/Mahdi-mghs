@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahdi Maghsoodi
 - 👀 I’m interested in AI , Database & backend's website 
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning ML
 - at this time , I learend C++ in university & Python advanced with courses and training (include Django, Restframework) and also work with linux os
 -----
 - 📫 How to reach me micrmahdi@gmail.com
