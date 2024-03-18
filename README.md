@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mahdi Maghsoodi
-- 👀 I’m interested in AI , Database
-- 🌱 I’m currently learning ML
-- at this time , I learend C++ in university & Python advanced with courses and training (include Django, Restframework) and also work with linux os
------
+👋 Hi, I’m Mahdi Maghsoodi
+I’m currently learning NoSql
+
+be free in my page and if you like my open source projects, Glad to rate it 🙃
+
 - 📫 How to reach me micrmahdi@gmail.com
 
 <!---
