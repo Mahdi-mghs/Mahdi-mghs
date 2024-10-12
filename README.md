@@ -1,5 +1,6 @@
 👋 Hi, I’m Mahdi Maghsoodi
-I’m currently learning NoSql
+
+currently Engaging in **Data Engineer** field
 
 be free in my page and if you like my open source projects, Glad to rate it 🙃
 
