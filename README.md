@@ -1,8 +1,8 @@
-👋 Hi, I’m Mahdi Maghsoodi
+A normal person with big Ideas
 
 currently Engaging in **Data Engineer** field
 
-be free in my page and if you like my open source projects, Glad to rate it 🙃
+be free in my page and if you like my projects, Glad to rate it 🙃
 
 - 📫 How to reach me micrmahdi@gmail.com
 
