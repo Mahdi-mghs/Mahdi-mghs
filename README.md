@@ -75,4 +75,9 @@ Projects that helped shape my journey.
 
 # 🐍 CONTRIBUTION SNAKE
 
-![snake gif](https://github.com/Mahdi-mghs/Mahdi-mghs/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img
+    alt="snake animation"
+    src="https://raw.githubusercontent.com/Mahdi-mghs/Mahdi-mghs/output/github-contribution-grid-snake-dark.svg"
+  />
+</p>
