@@ -1,79 +1,103 @@
-# <div align="center">⚡ MAHDI'S LAB ⚡</div>
+# Mahdi's Lab
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Data+Engineer;Pipeline+Architect;Automation+Builder;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Data+Engineer+%7C+Pipeline+Architect;I+turn+raw+data+into+decisions;Streaming+%7C+Automation+%7C+Crawling" />
 
+<br/>
 
+<!-- Replace # links below with your real profiles -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-mghs)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micrmahdi@email.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mahdi-mghs&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)](https://github.com/Mahdi-mghs)
 
 </div>
 
 ---
 
-## 🧬 SYSTEM STATUS
+## 🧬 System Status
 
 ```yaml
-Name: Mahdi
+Name:       Mahdi
+Role:       Data Engineer / PM
+Location:   Khorasan razavi, Iran
 Focus:
-  - Data Engineering
-  - Automation
-  - Pipelines
-  - Web Crawling
-Current State:
-  - Building
-  - Learning
-  - Experimenting
+  - Data Engineering & Pipeline Architecture
+  - Stream Processing (Kafka, Spark)
+  - Web Crawling & Automation
+Currently:
+  - Building: kafka-pipeline (real-time stream processor)
+  - Learning: Delta Lake & Iceberg table formats
+  - Exploring: ESP32 & Microcontrollers
+Open To:    Collaborations, freelance data projects
+Reach Me:   micrmahdi@email.com
+Fun Fact:   I think of data pipelines the way architects think of bridges
 ```
 
 ---
 
-# 🛠️ UTILITY LAB
+## 🛠️ Utility Lab
 
-Projects built to solve real-world problems.
+> Production tools built to solve real-world problems.
 
-| Project | Description |
-|----------|-------------|
-| 🏦 Bank-Automation | Banking workflow automation |
-
----
-
-# 🚀 IDEA REACTOR
-
-Experimental and innovative projects.
-
-| Project | Description |
-|----------|-------------|
-| ⚡ SCPipeline | Data processing experiments |
-| 🌊 kafka-pipeline | Streaming architecture |
-| 📈 Retrieve_Market | Market data collection |
-| 🔥 SparkScalaTraining | Spark playground |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🏦 [Bank-Automation](https://github.com/Mahdi-mghs/Bank-Automation) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Automates repetitive banking workflows — fill your card info and try get captcha automatically |
 
 ---
 
-# 🗄️ TIME CAPSULE
+## 🚀 Idea Reactor
 
-Projects that helped shape my journey.
+> Experimental projects at the edge of what I'm learning.
 
-| Project | Description |
-|----------|-------------|
-| 🎬 IMDBScraper | Movie data crawler |
-| 📚 Book_Bank | Learning project |
-| 🌐 First-FE | Early frontend work |
-| 🕷️ pinterest-crawler | Web crawling experiments |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| ⚡ [SCPipeline](https://github.com/Mahdi-mghs/SCPipeline) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | End-to-end data processing pipeline — ingestion, transformation, and sink |
+| 🌊 [kafka-pipeline](https://github.com/Mahdi-mghs/kafka-pipeline) | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) | Real-time streaming architecture experiment with Kafka producers and consumers |
+| 📈 [Retrieve_Market](https://github.com/Mahdi-mghs/Retrieve_Market) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Market data collector — fetches, normalizes, and stores financial time-series |
+| 🔥 [SparkScalaTraining](https://github.com/Mahdi-mghs/SparkScalaTraining) | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) | Apache Spark playground in Scala — RDDs, DataFrames, and batch jobs |
 
 ---
 
-# ⚙️ TECH ARSENAL
+## 🗄️ Time Capsule
 
-<p align="center">
+> Earlier work that shaped my engineering mindset.
 
-<img src="https://skillicons.dev/icons?i=python,java,scala,docker,git,linux,mysql,postgresql" />
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🎬 [IMDBScraper](https://github.com/Mahdi-mghs/IMDBScraper) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Crawls IMDB for movie metadata — ratings, cast, genres — and stores structured output |
+| 📚 [Book_Bank](https://github.com/Mahdi-mghs/Book_Bank) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Personal learning project — book inventory and tracking system |
+| 🌐 [First-FE](https://github.com/Mahdi-mghs/First-FE) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) | My first frontend project — a milestone worth remembering |
+| 🕷️ [pinterest-crawler](https://github.com/Mahdi-mghs/pinterest-crawler) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Web crawler for Pinterest image and metadata extraction |
 
+---
+
+## ⚙️ Tech Arsenal
+
+**Languages**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,scala" />
+</p>
+
+**Data & Streaming**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kafka,spark" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
+
+**DevOps & Databases**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,postgresql" />
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+## 🐍 Contribution Snake
 
 <p align="center">
   <img
