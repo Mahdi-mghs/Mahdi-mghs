@@ -1,10 +1,6 @@
-# Mahdi's Lab
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Data+Engineer+%7C+Pipeline+Architect;I+turn+raw+data+into+decisions;Streaming+%7C+Automation+%7C+Crawling" />
-
-<br/>
+<p align="center">
+  <img src="assets/header.svg" alt="Mahdi's Lab — pipeline header" width="900"/>
+</p>
 
 <!-- Replace # links below with your real profiles -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-mghs)
