@@ -52,6 +52,7 @@ Fun Fact:   I think of data pipelines the way architects think of bridges
 | 🌊 [kafka-pipeline](https://github.com/Mahdi-mghs/kafka-pipeline) | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) | Real-time streaming architecture experiment with Kafka producers and consumers |
 | 📈 [Retrieve_Market](https://github.com/Mahdi-mghs/Retrieve_Market) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Market data collector — fetches, normalizes, and stores financial time-series |
 | 🔥 [SparkScalaTraining](https://github.com/Mahdi-mghs/SparkScalaTraining) | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) | Apache Spark playground in Scala — RDDs, DataFrames, and batch jobs |
+| 📘 [Dictionary-App](https://github.com/Mahdi-mghs/Dictionary-App) | Java | Working around develop android app
 
 ---
 
